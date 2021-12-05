@@ -1,1 +1,1 @@
-# Descriptive-and-Inferential-Statistics-To-Determine-Performance-on-Lecture-Theatres-in-University
+# Descriptive_and_Inferential_Statistics_To_Determine_Performance_of_Lecture_Theatres_in_University
