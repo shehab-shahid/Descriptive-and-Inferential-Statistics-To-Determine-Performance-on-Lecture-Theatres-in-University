@@ -16,12 +16,19 @@ The data was provided by the university and required a lot of cleaning.
 There were mixed data types in columns that should be numerical, columns that needed to be deleted as those variables were not going to be analyzed, columns that needed consistent data ('F' for females not 'f'), deleting values that are not expected in a variable.
 Missing values were visualized and it was found that empty cells were negligible.
 
+![](images/dataset_missingvalues.png)
+
 ## Descriptive Statistics
 
 The following recommendations were proposed based on descriptive statistics:
 * Overall the learning environment of 50 lecture theatres in University College London is impressive. In all KPI's, the data was skewed to favour high points.
 * Best and worst performing lecture theatres were identified after their repeated positings in KPI's. Out of 30 lecture theatre features, only seat comfort, desk space, room length/width, mean room temperatures and light intensities presented some correlation, although, weak. The following recommendation is therefore provided to improve poor performing lecture theatres: seat width around 500mm, deskp depth around 325mm, 750mm desk height, lecture theatre length and width around 12.5m, room height 2.5m and 20-24 degrees of room temperature.
 
+![](images/LT_designKPI_barplot.png)
+
+![](images/boxplot_seatwidth_LTtype.png)
+
+![](images/bubbleplot_thermalcomfort_meantemp.png)
 
 ## Inferential Statistics
 
