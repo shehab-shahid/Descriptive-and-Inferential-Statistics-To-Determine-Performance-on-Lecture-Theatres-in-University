@@ -18,7 +18,7 @@ Missing values were then visualized and it was found that empty cells were negli
 
 ![](images/dataset_missingvalues_new.png)
 <p align="center">
-Missingno matrix where white cells represent missing data. Wire on the RHS shows most rows have all 50 columns filled, with the largest peak showing a row where only 36/50 columns are filled. All columns with student-entered data has missing values, most columns entered by the moderator are full.
+Missingno matrix where white cells represent missing data. Wire on the RHS shows most rows have all 50 columns filled, with the largest peak showing a row where only 36/50 columns are filled. All columns with student-entered data have missing values, most columns entered by the moderator are full.
 </p>
 
 ## Descriptive Statistics
