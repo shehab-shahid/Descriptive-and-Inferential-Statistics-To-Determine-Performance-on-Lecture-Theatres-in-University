@@ -1,7 +1,7 @@
-# Descriptive and Inferential Statistics To Determine Performance of Lecture Theatres in University
+# Diagnostic, Prescriptive and Inferential Analysis To Determine Performance of Lecture Theatres in University
 
 * This is a real-life project that I completed using Excel in 2020 during my MSc and improved it using Python in 2021.
-* The project used decriptive and inferential statistics on 3953 student questionnaires, received over 50 lectures to determine performance of lecture theatres as a learning environment. 
+* The project used Diagnostic, Prescriptive and Inferential Analysis on 3953 student questionnaires, received over 50 lectures to determine performance of lecture theatres as a learning environment. 
 * Three types of data were analyzed: students properties (gender, clothing, seat position), students perception/KPI (thermal comfort, lecture theatre rating, etc.) and lecture theatre environmental and physical properties (mean temperature, room length etc.)
 * The analysis identified the performance of lecture theatres and proposed improvements to few under-performing lecture theatres
 
@@ -21,7 +21,7 @@ Missing values were then visualized and it was found that empty cells were negli
 Missingno matrix where white cells represent missing data. Wire on the RHS shows most rows have all 50 columns filled, with the largest peak showing a row where only 36/50 columns are filled. All columns with student-entered data have missing values, most columns entered by the moderator are full.
 </p>
 
-## Descriptive Statistics
+## Diagnostic and  Prescriptive Analytics
 
 The following recommendations were proposed based on descriptive statistics:
 * Overall the learning environment of 50 lecture theatres in University College London is impressive. In all KPI's, the data was skewed to favour high points.
